@@ -19,6 +19,6 @@ Once the tables have been created and the data entered, the next step is to unde
 - understanding which tables and columns will be used to generate the required information or output.
 - Note:
 This client request is a case study provided by the course/bootcamp I attended.
-### 4. Data Exploration
-After understanding the case study, this is the core of the data analysis activity in this case. The next step is to explore the database and tables in the car retailer to display information in tabular form based on the client's request.
+### 4. Data Exploration and Analysis
+After understanding the case study, here's the essence of the data analysis activities in this case. The next step is to analyze the database and tables at the car retailer to display the information in tabular form based on the client's request using PGSQL queries.
 
